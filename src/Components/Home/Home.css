@@ -1,0 +1,27 @@
+#background {
+    height: 500px;
+    width: 100%;
+    background-color: black;
+    background-image: url("https://cdn.pixabay.com/photo/2023/12/06/21/07/photo-8434385_1280.jpg");
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: -80px;
+}
+h1 {
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+input {
+    width: 500px;
+    height: 36px;
+    border-radius: 50px;
+    margin-top: 20px; 
+}
+#searc {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

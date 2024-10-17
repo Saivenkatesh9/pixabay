@@ -1,0 +1,29 @@
+#na{
+    height: 70px;
+    width: 100%;
+    background-color: #00336614;
+    display: flex;
+}
+svg{
+    height: 50px;
+    width: 150px;
+    color: white;
+    padding-left: 20px;
+    padding-top: 10px;
+    margin-right: 900px;
+}
+#lo{
+    display: flex  ;
+}
+#lo p{
+    color: white;
+    margin-left: 100px;
+}
+#join{
+    border: solid;
+    width: 50px;
+    border-radius: 20px;
+    background-color: #96acc25d;
+    padding-left: 15px;
+    padding-top: 2px;
+}

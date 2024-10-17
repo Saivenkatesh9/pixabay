@@ -1,0 +1,60 @@
+#navv{
+    height: 670px;
+    width:100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+#borr{
+    height: 500px;
+    width: 400px;
+    border: solid;
+    background-color: white;
+    /* border-radius: 52px 52px 0px 0px; */
+    border-radius: 16px;
+
+}
+#logg{
+    height:100px ;
+    width: 400px;
+    /* border: solid; */
+    border-radius: 15px 15px 0px 0px;
+    background-image: linear-gradient(to right, #1611c8, #6a06d0, #9a00d6, #c400dc, #eb12e0);
+    display: flex;
+    justify-content: center;
+}
+#logg h1{
+    color: white;
+}
+#inn{
+    display: inline-block;
+    height: 250px;
+}
+#inn input{
+    width: 300px;
+    height: 50px;
+    border-radius: 50px ;
+    margin-top: 50px;
+    margin-left: 49px;
+    border: gray 1px solid;
+}
+button{
+    width: 300px;
+    height: 50px;
+    border-radius: 50px ;
+    margin-left: 50px;
+    background-image: linear-gradient(to right, #1611c8, #6a06d0, #9a00d6, #c400dc, #eb12e0);
+    color: white;
+}
+#bu{
+    margin-top: -50px;
+}
+#nott{
+    height: 100px;
+    width: 100%;
+    text-align: center;
+}
+h4{
+    display: inline-block;
+}
